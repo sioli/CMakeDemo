@@ -1,0 +1,3 @@
+/Volumes/SIO_SSD/WorkSpace/CMakeDemo/cmake-demo/Demo5/CMakeFiles/rebuild_cache.dir
+/Volumes/SIO_SSD/WorkSpace/CMakeDemo/cmake-demo/Demo5/CMakeFiles/edit_cache.dir
+/Volumes/SIO_SSD/WorkSpace/CMakeDemo/cmake-demo/Demo5/CMakeFiles/Demo.dir
