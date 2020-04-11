@@ -72,6 +72,9 @@ macro (do_test arg1 arg2 result)
     PROPERTIES PASS_REGULAR_EXPRESSION ${result})
 endmacro (do_test)
 
+
+
+
 # 利用 do_test 宏，测试一系列数据
 do_test (5 2 "is 25")
 do_test (10 5 "is 100000")
